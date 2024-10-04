@@ -5,3 +5,6 @@ body {
 .card-header {
     background-color: #ffff !important;
 }
+.form-control { 
+    border: 1px solid #266db5 !important;
+}
